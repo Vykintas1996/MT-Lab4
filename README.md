@@ -1,6 +1,6 @@
 # mediaLab4
 
-Added additional filter with 
+Added additional filter
 
 Added slider for filter gain control
 
